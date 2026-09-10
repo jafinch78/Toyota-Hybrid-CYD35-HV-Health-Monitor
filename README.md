@@ -1,6 +1,6 @@
 # Toyota Hybrid CYD35 HV Health DEV1
 
-Development branch based on the exact working `v2.4.4 RC1.4 R2.5` package supplied by the user.
+Development branch based on the exact working `v2.4.4 RC1.4 R2.5` package supplied from the Toyota-Hybrid-CYD35-Diagnostic-CAN-Logger repo.
 
 ## Purpose
 
